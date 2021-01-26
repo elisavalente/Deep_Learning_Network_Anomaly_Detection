@@ -11,3 +11,7 @@ The proposed work will address the sparse availability of data by building a gen
 
 
 ![System Architecture](../master/System_Architecture/System.png)
+
+___
+
+To download the CICIDS2017 dataset go to [**HERE**](http://205.174.165.80/CICDataset/CIC-IDS-2017/Dataset/)
